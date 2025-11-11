@@ -1,0 +1,104 @@
+
+*
+{
+ margin: 0;
+ padding: 0;
+}
+  
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-image: url(https://static.vecteezy.com/system/resources/previews/000/522/943/original/abstract-technology-background-with-the-hi-tech-futuristic-concept-cyber-technology-innovation-background-vector-illustration.jpg);
+    height: 120vh;
+    background-size: cover;
+    background-position: center;
+}
+  
+ 
+  #navbar
+  {
+    height: 40px;
+    background-color: black;
+    padding-top: 10px;
+  }
+  
+  a{
+    color: white;
+    text-decoration: none;
+    padding: 45px;
+  }
+ 
+  #page
+  {
+    font-size: larger;
+    font-style:italic;
+    font-weight: bold;
+  }
+  #page:hover
+  {
+    color: blue;
+  }
+  #button
+  {
+    color: black;
+    background-color: yellow;
+    margin: 2px;
+    padding: 1px;
+
+  }
+  .image img
+  {
+    width: 100%;
+    height: 500px;
+    background-size: cover;
+    background-position: center;
+  }
+  .main{
+    color:white;
+    margin-left: 50px;
+    padding-top: 50px;
+  }
+  .para
+  {
+    color: white;
+    margin-left: 70px;
+  }
+  button
+{
+    color: black;
+    margin-top: 20px; 
+    margin-bottom: 20px;
+    background-color: pink;
+    border: 1px solid black;
+    padding: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-left: 70px;
+}
+button:hover
+{
+    background-color: black;
+    color: pink;
+    
+}
+  
+  footer {
+    text-align: center;
+    background-color:rgb(31, 23, 23);
+    color: white;
+    height: 150px;
+    margin-top: 300px;
+    padding: 40px;
+
+  }
+  #foot
+  {
+    font-size: x-large;
+  }
+#table
+{
+  width: 90%;
+  margin-left: 400px;
+   text-align: center;
+   margin-top: 30px;
+}
